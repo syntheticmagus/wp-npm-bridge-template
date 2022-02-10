@@ -1,0 +1,1 @@
+console.log("Hello, WordPress! It's JavaScript!"),window.CustomFunction=function(){console.log("Hello again, WordPress! You called?")};
