@@ -1,0 +1,1 @@
+This file exists simply to force git to create the "build" folder, which npm-build-zip expects to exist.

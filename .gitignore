@@ -1,5 +1,5 @@
 node_modules
 package-lock.json
 
-wp/assets
+wp/wp-npm-bridge-template/assets
 build
